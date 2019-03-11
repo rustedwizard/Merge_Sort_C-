@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Rusted Wizard</Authors>
+    <Company>Rusted Studio</Company>
+    <Description>Simple generic mergesort method implement the mergersort algorithm (since in c# sort method uses quick sort). To use simple invoke the static method: MergeSort&lt;T&gt;.Sort(List&lt;T&gt; tosort), it returns result in List&lt;T&gt; type.
+</Description>
+    <PackageTags>MergeSort, Sort</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>Open Source</Copyright>
+  </PropertyGroup>
+
+</Project>
