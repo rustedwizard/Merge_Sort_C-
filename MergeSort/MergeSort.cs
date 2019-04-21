@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace MergeSort
 {
+    //Merge Sort Main Algorithm
     public class MergeSort<T> where T : IComparable
     {
         public static List<T> Sort(List<T> toSort)
